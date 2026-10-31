@@ -1,0 +1,12 @@
+# Backup files
+*.backup
+*.bak
+index.html.backup
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.idea/
+.vscode/
